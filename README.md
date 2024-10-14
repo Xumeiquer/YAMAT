@@ -9,7 +9,7 @@ ________________________________
 ==================================
 ```
 
-# Yet Another Mail Analysis Tool
+# Yet Another Mail Analysis Tool
 
 There several tools to analyze email headers and body, some of them analyses the headers, other does body analysis by extracting indicator of compromise. But, there is not a tool that do all in one. YAMAT pretents to be the tool that includes all that a cybersecurity analyst needs when analysing emails.
 
@@ -28,7 +28,7 @@ There several tools to analyze email headers and body, some of them analyses the
 * It is possible to send results to a webhook
 * It is possible to chain several YAMAT executions
 
-## How to use YAMAT
+## How to use YAMAT
 
 YAMAT is a command line tool so it usage is really easy. It works with commands, there are some commands to do a specific tasks and there are a global flags for quick results.
 
